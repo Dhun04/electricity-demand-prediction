@@ -1,1 +1,1 @@
-# electricity-demand-prediction
+# Electricity-demand-prediction
